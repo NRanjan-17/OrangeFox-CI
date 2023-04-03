@@ -2,9 +2,9 @@
 
 # Device
 export FOX_BRANCH="fox_12.1"
-export DT_LINK="https://github.com/NRanjan-17/device_mido_twrp.git -b fox_12.1"
+export DT_LINK="https://github.com/SonicBSV/device_markw_twrp.git -b android-12.1"
 
-export DEVICE="mido"
+export DEVICE="markw"
 export OEM="xiaomi"
 
 # Build Target
@@ -22,7 +22,7 @@ DEPS=(
 )
 
 # Extra Command
-export EXTRA_CMD="export OF_MAINTAINER=NRanjan-17"
+export EXTRA_CMD="export OF_MAINTAINER=(biasa)"
 
 # Magisk
 ## Use the Latest Release of Magisk for the OrangeFox addon
