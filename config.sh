@@ -2,7 +2,7 @@
 
 # Device
 export FOX_BRANCH="fox_12.1"
-export DT_LINK="https://github.com/NRanjan-17/device_mido_twrp.git -b fox_12.1"
+export DT_LINK="https://github.com/NRanjan-17/device_mido_twrp.git -b fox_12.1-FBE"
 
 export DEVICE="mido"
 export OEM="xiaomi"
